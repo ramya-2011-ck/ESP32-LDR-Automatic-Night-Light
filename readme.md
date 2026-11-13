@@ -96,5 +96,5 @@ The project was developed and tested using the Wokwi ESP32 simulator.
 
 ## Circuit
 
-![ESP32 Traffic Signal](Automatic_light.png)
+![ESP32-LDR-Automatic-Night-Light](Automatic_led.png)
 
